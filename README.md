@@ -1,0 +1,2 @@
+# Parcial
+Ejercicios solucionados parcial
